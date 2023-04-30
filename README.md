@@ -2,9 +2,9 @@
 ## Introduction
 Website Ebook_System will provide you with a place to exchange, buy and sell books, easily manage items such as accounts, books, invoices,... With a beautiful and easy-to-use interface, I believe this This is the right project for you.
 ## Technical 
-Using Servlet, JSP & SQL Server
-Programming language: Java
-Interface: Jsp, Css, JavaScript
+- Using Servlet, JSP & SQL Server.
+- Programming language: Java.
+- Interface: Jsp, Css, JavaScript.
 ## User Interface
 
 ### Home Page: 
